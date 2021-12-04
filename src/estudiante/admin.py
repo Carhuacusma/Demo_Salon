@@ -1,6 +1,6 @@
 from django.contrib import admin
 
 # Register your models here.
-from .models import Simulacro
+from .models import Estudiante
 
-admin.site.register(Simulacro)
+admin.site.register(Estudiante)
