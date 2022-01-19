@@ -1,0 +1,25 @@
+{"preguntas": [
+    {
+        "id_pregunta": 1,
+        "pregunta": "Las ciencias empíricas son sistemas de teorías; y la lógica del conocimiento científico, por tanto, puede describirse como una teoría de teorías. Las teorías científicas son enunciados universales; son, como todas las representaciones, sistemas de signos o símbolos. Por ello, no creo que sirve de gran cosa expresar la diferencia entre teorías universales y enunciados singulares diciendo que estos últimos son «concretos» mientras que las teorías son meramente fórmulas simbólicas o esquemas simbólicos: pues exactamente lo mismo puede decirse hasta de los enunciados más «concretos». Las teorías son redes que lanzamos para apresar aquello que llamamos «el mundo»: para racionalizarlo, explicarlo y dominarlo. Y tratamos de que la malla sea cada vez más fina.",
+        "cita": "POPPER, Karl (1934). Lógica de la investigación científica. Madrid: Tecnos"
+    },
+    {
+        "id_pregunta": 2,
+        "pregunta": "El texto aborda el tema de",
+        "alternativas": ["los conceptos singulares y universales.", "los lenguajes simbólicos y la ciencia.", "la lógica del conocimiento científico.", "la definición de las teorías científicas."], 
+        "respuesta": "las teorías científicas y la universalidad."
+    },
+    {
+        "id_pregunta": 3,
+        "pregunta": "Popper, al decir que «[…] tratamos de que la malla sea cada vez más fina», se refiere a que",
+        "alternativas": ["los conceptos singulares y universales.", "los lenguajes simbólicos y la ciencia.", "la lógica del conocimiento científico.", "la definición de las teorías científicas."], 
+        "respuesta": "las teorías científicas y la universalidad."
+    },
+    {
+        "id_pregunta": 4,
+        "pregunta": "Respecto del conocimiento científico mismo, se deduce que",
+        "alternativas": ["los conceptos singulares y universales.", "los lenguajes simbólicos y la ciencia.", "la lógica del conocimiento científico.", "la definición de las teorías científicas."], 
+        "respuesta": "las teorías científicas y la universalidad."
+    }]
+}
